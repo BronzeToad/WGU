@@ -1,0 +1,32 @@
+{
+  "AllstarFull": "core",
+  "Appearances": "core",
+  "AwardsManagers": "contrib",
+  "AwardsPlayers": "contrib",
+  "AwardsShareManagers": "contrib",
+  "AwardsSharePlayers": "contrib",
+  "Batting": "core",
+  "BattingPost": "core",
+  "CollegePlaying": "contrib",
+  "Fielding": "core",
+  "FieldingOF": "core",
+  "FieldingOFsplit": "core",
+  "FieldingPost": "core",
+  "HallOfFame": "contrib",
+  "HomeGames": "core",
+  "Managers": "core",
+  "ManagersHalf": "core",
+  "Parks": "core",
+  "People": "core",
+  "Pitching": "core",
+  "PitchingPost": "core",
+  "Salaries": "contrib",
+  "Schools": "contrib",
+  "SeriesPost": "core",
+  "Teams": [
+    "core",
+    "upstream"
+  ],
+  "TeamsFranchises": "core",
+  "TeamsHalf": "core"
+}
