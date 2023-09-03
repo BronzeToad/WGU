@@ -1,6 +1,7 @@
 # Other Stuff
 .idea/
 src/usernames/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -164,4 +165,3 @@ cython_debug/
 #.idea/
 chromedriver-mac-x64/LICENSE.chromedriver
 chromedriver-mac-x64/chromedriver
-.DS_Store
